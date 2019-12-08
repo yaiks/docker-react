@@ -16,7 +16,7 @@ function App() {
 					target='_blank'
 					rel='noopener noreferrer'
 				>
-					Learn React
+					I learned how to use Docker, ElasticBeansStalk and Travis CI!!!
 				</a>
 			</header>
 		</div>
